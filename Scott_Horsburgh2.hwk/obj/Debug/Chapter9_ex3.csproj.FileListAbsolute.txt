@@ -1,0 +1,20 @@
+C:\Users\Scott Horsburgh\Documents\School Work\PRG205\Scott_Horsburgh2.hwk\Scott_Horsburgh2.hwk\bin\Debug\Scott_Horsburgh2.hwk.exe.config
+C:\Users\Scott Horsburgh\Documents\School Work\PRG205\Scott_Horsburgh2.hwk\Scott_Horsburgh2.hwk\bin\Debug\Scott_Horsburgh2.hwk.exe
+C:\Users\Scott Horsburgh\Documents\School Work\PRG205\Scott_Horsburgh2.hwk\Scott_Horsburgh2.hwk\bin\Debug\Scott_Horsburgh2.hwk.pdb
+C:\Users\Scott Horsburgh\Documents\School Work\PRG205\Scott_Horsburgh2.hwk\Scott_Horsburgh2.hwk\obj\Debug\Chapter9_ex3.csprojResolveAssemblyReference.cache
+C:\Users\Scott Horsburgh\Documents\School Work\PRG205\Scott_Horsburgh2.hwk\Scott_Horsburgh2.hwk\obj\Debug\Scott_Horsburgh2.hwk.Calculator.resources
+C:\Users\Scott Horsburgh\Documents\School Work\PRG205\Scott_Horsburgh2.hwk\Scott_Horsburgh2.hwk\obj\Debug\Scott_Horsburgh2.hwk.Properties.Resources.resources
+C:\Users\Scott Horsburgh\Documents\School Work\PRG205\Scott_Horsburgh2.hwk\Scott_Horsburgh2.hwk\obj\Debug\Chapter9_ex3.csproj.GenerateResource.Cache
+C:\Users\Scott Horsburgh\Documents\School Work\PRG205\Scott_Horsburgh2.hwk\Scott_Horsburgh2.hwk\obj\Debug\Chapter9_ex3.csproj.CoreCompileInputs.cache
+C:\Users\Scott Horsburgh\Documents\School Work\PRG205\Scott_Horsburgh2.hwk\Scott_Horsburgh2.hwk\obj\Debug\Scott_Horsburgh2.hwk.exe
+C:\Users\Scott Horsburgh\Documents\School Work\PRG205\Scott_Horsburgh2.hwk\Scott_Horsburgh2.hwk\obj\Debug\Scott_Horsburgh2.hwk.pdb
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C#.NET\PRG321\Scott_Horsburgh2.hwk\Scott_Horsburgh2.hwk\bin\Debug\Scott_Horsburgh2.hwk.exe.config
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C#.NET\PRG321\Scott_Horsburgh2.hwk\Scott_Horsburgh2.hwk\bin\Debug\Scott_Horsburgh2.hwk.exe
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C#.NET\PRG321\Scott_Horsburgh2.hwk\Scott_Horsburgh2.hwk\bin\Debug\Scott_Horsburgh2.hwk.pdb
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C#.NET\PRG321\Scott_Horsburgh2.hwk\Scott_Horsburgh2.hwk\obj\Debug\Chapter9_ex3.csprojAssemblyReference.cache
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C#.NET\PRG321\Scott_Horsburgh2.hwk\Scott_Horsburgh2.hwk\obj\Debug\Scott_Horsburgh2.hwk.Calculator.resources
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C#.NET\PRG321\Scott_Horsburgh2.hwk\Scott_Horsburgh2.hwk\obj\Debug\Scott_Horsburgh2.hwk.Properties.Resources.resources
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C#.NET\PRG321\Scott_Horsburgh2.hwk\Scott_Horsburgh2.hwk\obj\Debug\Chapter9_ex3.csproj.GenerateResource.cache
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C#.NET\PRG321\Scott_Horsburgh2.hwk\Scott_Horsburgh2.hwk\obj\Debug\Chapter9_ex3.csproj.CoreCompileInputs.cache
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C#.NET\PRG321\Scott_Horsburgh2.hwk\Scott_Horsburgh2.hwk\obj\Debug\Scott_Horsburgh2.hwk.exe
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C#.NET\PRG321\Scott_Horsburgh2.hwk\Scott_Horsburgh2.hwk\obj\Debug\Scott_Horsburgh2.hwk.pdb
